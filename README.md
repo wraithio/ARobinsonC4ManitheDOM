@@ -1,13 +1,14 @@
 # Manipulating the DOM
 
-**Description**: Create a fully functioning website using bootstrap based off a mockup that was provided.
-![Design preview for the Puppy Restaurant Website](/assets/Screenshot.png)
+**Description**: Create an application that uses purely Javascript to change items on your page.
+Use 10 different buttons to change 10 different things on the HTML side
 
 **Name**: Aaron Robinson
 
 **Date**: 11/12/24
 
-**Github**: https://github.com/mkheck13/puppyrestaurant
+**Github**: https://github.com/wraithio/ARobinsonC4ManitheDOM
 
 ### Peer Review:
-**Name**: Bronel Lazar
+**Name**: 
+**Comments**:
